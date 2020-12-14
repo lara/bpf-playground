@@ -1,4 +1,4 @@
 *.o
 .vagrant
 *.log
-.git
+.DS_Store
